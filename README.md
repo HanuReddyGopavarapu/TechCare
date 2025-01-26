@@ -15,8 +15,4 @@ This is a simple React application that showcases a dashboard with various compo
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **HTML/CSS**: Standard web technologies for structure and styling.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
